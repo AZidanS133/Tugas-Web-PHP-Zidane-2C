@@ -7,7 +7,7 @@
 </head>
 <body bgcolor="yellow">
     <?php
-    echo "<h1>Ini Adalah PHP Saya";
+    echo "<h1>Ini Adalah PHP Saya</h1>";
     ?>
 </body>
 </html>
